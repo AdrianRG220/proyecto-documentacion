@@ -1,0 +1,1 @@
+Las bases de datos son sistemas que permiten almacenar, organizar y gestionar grandes cantidades de información de manera estructurada.
