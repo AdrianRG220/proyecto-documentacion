@@ -1,0 +1,2 @@
+Las tecnologías actuales abarcan avances como la inteligencia artificial, el cómputo en la nube y la ciberseguridad avanzada.
+También destacan frameworks modernos para desarrollo web y móvil, así como herramientas de automatización y análisis de datos.
