@@ -1,0 +1,2 @@
+Un glosario es una lista de términos y sus definiciones, generalmente relacionados con un área específica del conocimiento.
+Sirve como referencia rápida para entender conceptos clave y facilitar la comunicación técnica o académica.
