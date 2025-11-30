@@ -1,0 +1,2 @@
+La seguridad en tecnología se enfoca en proteger sistemas, datos y redes contra accesos no autorizados y amenazas.
+Incluye prácticas como cifrado, autenticación, control de acceso y monitoreo de vulnerabilidades.
