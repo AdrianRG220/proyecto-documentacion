@@ -1,0 +1,2 @@
+JavaScript moderno introduce características como arrow functions, promesas y async/await para manejar lógica de forma más clara y eficiente.
+Incluye módulos, clases y estructuras avanzadas que facilitan la organización del código.
