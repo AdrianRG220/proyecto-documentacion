@@ -1,0 +1,1 @@
+CSS avanzado permite crear diseños web complejos mediante técnicas como flexbox, grid y animaciones con transitions y keyframes.
