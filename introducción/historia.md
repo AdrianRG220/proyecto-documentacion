@@ -1,0 +1,2 @@
+GitHub fue creado en 2008 por Tom Preston-Werner, Chris Wanstrath y PJ Hyett como una plataforma para alojar proyectos utilizando Git.
+Rápidamente ganó popularidad entre desarrolladores gracias a su enfoque en la colaboración y las contribuciones abiertas.
