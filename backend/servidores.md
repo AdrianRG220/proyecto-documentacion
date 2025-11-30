@@ -1,0 +1,2 @@
+Los servidores son sistemas que almacenan, procesan y distribuyen información a otros dispositivos a través de una red.
+Permiten ejecutar aplicaciones, gestionar bases de datos y atender solicitudes de usuarios o clientes.
