@@ -1,0 +1,2 @@
+Los frameworks son herramientas que proporcionan una estructura predefinida para desarrollar aplicaciones de manera más rápida y organizada.
+Ayudan a simplificar tareas comunes como el manejo de rutas, componentes, estilos o bases de datos.
