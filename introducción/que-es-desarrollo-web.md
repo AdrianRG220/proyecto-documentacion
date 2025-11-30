@@ -1,0 +1,2 @@
+El desarrollo web es el proceso de crear y mantener sitios y aplicaciones accesibles desde un navegador.
+Incluye tanto el diseño de la interfaz visual como la programación que permite la interacción y el funcionamiento interno.
